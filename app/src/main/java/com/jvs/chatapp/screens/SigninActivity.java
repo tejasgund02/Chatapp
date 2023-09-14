@@ -17,6 +17,7 @@ public class SigninActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
          binding =  ActivitySigninBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
+
     }
 
 }
