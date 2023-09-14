@@ -1,0 +1,28 @@
+Basic Version 0.1.0
+
+    User Registration and Authentication      :  Allow users to create accounts and log in securely to access their chats and settings.
+    Real-time Messaging                       :  Provide the ability to send and receive text messages in real-time to facilitate instant communication.
+    Notifications                             :  Provide push notifications or alerts to keep users informed of new messages even when the app is not active.
+    Message Status Indicators                 :  Show indicators like read receipts and typing notifications to let users know the status of their messages.
+    Search Functionality                      :  Implement a search feature to allow users to find past conversations or specific messages quickly.
+    Message Editing and Deletion              :  Enable users to edit and delete messages they have sent, preferably within a certain time frame.
+    Presence Indicators                       :  Show when a user is online or offline to help others know their availability.
+
+Intermediate Version 0.1.1
+
+    Contact Syncing                           :  Sync contacts from the user's phone to make it easier to find friends on the platform.
+    Group Chats                               :  Allow users to create or join group chats, where multiple participants can engage in conversations together.
+    Emojis and Stickers                       :  Incorporate a library of emojis and stickers to add expressions and fun elements to messages.
+    Multimedia Support                        :  Allow users to send and receive multimedia content like images, videos, audio clips, and files.
+    Profile Customization                     :  Allow users to personalize their profiles with profile pictures and status messages.
+    Status Updates                            :  Let users post status updates that can be visible to their contacts.
+
+Advanced Version 0.1.2
+
+    Read Message Synchronization              :  Ensure messages are synchronized across multiple devices to allow users to pick up conversations from different devices seamlessly.
+    Message Encryption                        :  Ensure end-to-end encryption to protect user privacy and data security.
+    Block and Report                          :  Include options to block or report users for inappropriate behavior or spam.
+    Offline Messaging                         :  Enable the app to store and deliver messages once the user is back online, especially in areas with poor connectivity.
+    Voice and Video Calls                     :  Optionally, integrate voice and video call functionalities for more interactive communication.
+
+
