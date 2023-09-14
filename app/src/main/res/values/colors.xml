@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="whatsapp_green">#25D366</color>
+    <color name="whatsapp_green_light">#66E592</color>
+    <color name="whatsapp_green_dark">#00A74A</color>
+
+    <color name="whatsapp_teal">#128C7E</color>
+    <color name="whatsapp_teal_light">#3AAFA9</color>
+    <color name="whatsapp_teal_dark">#006B5D</color>
+
+    <color name="facebook_primary">#4460a0</color>
+
+    <color name="whatsapp_gray">#BEBEBE</color>
+    <color name="whatsapp_gray_light">#D6D6D6</color>
+    <color name="whatsapp_gray_dark">#999999</color>
+
+
+</resources>
